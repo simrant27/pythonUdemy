@@ -30,8 +30,7 @@ while game_is_on:
     time.sleep(ball.move_speed)
     screen.update()
     ball.move()
-    # print("in")
-    # detect collision
+
     if ball.ycor() > 280 or ball.ycor() < -280:
         # print("out")
         ball.bounce_y()
