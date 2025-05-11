@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bb77388-17be-475e-be4d-8cb858c5f095" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day23Turtlecrossinggame/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day23Turtlecrossinggame/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day23Turtlecrossinggame/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day23Turtlecrossinggame/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day22PongGame/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day22PongGame/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +48,10 @@
     "Python.shapes.executor": "Run",
     "Python.spirograpg.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/simran/PycharmProjects/udemyPythonProject"
+    "last_opened_file_path": "/home/simran/PycharmProjects/udemyPythonProject/Day23Turtlecrossinggame"
   }
 }]]></component>
   <component name="RunManager">
@@ -82,7 +86,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
